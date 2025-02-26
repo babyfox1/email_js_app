@@ -1,9 +1,9 @@
 # email_js_app
 
 A new Flutter project.
-<img src="https://github.com/user-attachments/assets/004a7a0a-afce-4dd5-bbd0-b94b5fe6adda" width="187" height="400">
-## Getting Started
 
+## Getting Started
+<img src="https://github.com/user-attachments/assets/004a7a0a-afce-4dd5-bbd0-b94b5fe6adda" width="187" height="400">
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
